@@ -1,0 +1,223 @@
+
+#box1 {
+	float: center; 
+	width: 900px;
+	height: 7000px;
+	color: white;
+	background-color: #3366CC;
+	border-color: black;
+	padding: 1px;
+	margin:auto; 
+	font-family: 'Pacifico', cursive;
+	font-size: 90px;
+	text-align: center;
+	opacity: .19;
+	}
+
+#line {
+	float: center; 
+	width: 60px;
+	height: 435px;
+	color: white;
+	background-color: grey;
+	border-color: none;
+	padding: 1px;
+	margin:auto; 
+	font-size: 80px;
+	text-align: center;
+	opacity: none;
+	}
+
+
+#box2 {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	text-align: center;
+	}
+
+
+#tangled {
+	font-family: 'Pacifico', cursive;
+	float: center;
+	padding: 1px;
+	margin: 5px;
+	font-size: 55px;
+	text-align: center;
+	}
+
+#box4 {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	text-align: center;
+
+	}
+
+	#box5 {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:1px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	text-align: center;
+
+	}
+
+#burning {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 65px;
+	text-align: center;
+}
+
+
+#d {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 65px;
+	text-align: center;
+}
+
+#o {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 55px;
+	text-align: center;
+}
+
+#w {
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 45px;
+	text-align: center;
+}
+
+#n{
+	float: center; 
+	color: white;
+	padding: 1px;
+	margin:5px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 35px;
+	text-align: center;
+}
+
+
+#circle {
+	-ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+    transform: rotate(10deg);
+    font-family: 'Playfair Display', serif;
+
+}
+
+#circle1 {
+	-ms-transform: rotate(20deg); /* IE 9 */
+    -webkit-transform: rotate(20deg); /* Chrome, Safari, Opera */
+    transform: rotate(20deg);
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+#circle2 {
+	-ms-transform: rotate(30deg); /* IE 9 */
+    -webkit-transform: rotate(30deg); /* Chrome, Safari, Opera */
+    transform: rotate(30deg);
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+#circle3 {
+	-ms-transform: rotate(40deg); /* IE 9 */
+    -webkit-transform: rotate(40deg); /* Chrome, Safari, Opera */
+    transform: rotate(40deg);
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+
+#circle4 {
+	-ms-transform: rotate(50deg); /* IE 9 */
+    -webkit-transform: rotate(50deg); /* Chrome, Safari, Opera */
+    transform: rotate(50deg);
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+#circle5 {
+	-ms-transform: rotate(60deg); /* IE 9 */
+    -webkit-transform: rotate(60deg); /* Chrome, Safari, Opera */
+    transform: rotate(60deg);
+    font-family: 'Playfair Display', serif;
+
+
+}
+
+#move {
+    width: 100px;
+    height: 100px;
+    background-color: none;
+    position: relative;
+    margin:auto;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 30px;
+
+
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    -webkit-animation-delay: 2s; /* Chrome, Safari, Opera */
+    animation-duration: 15s;
+    animation-delay: 2s;
+}
+
+		/* Chrome, Safari, Opera */
+		@-webkit-keyframes example {
+    0%   {background-color:none; left:0px; top:0px;}
+    25%  {background-color:none; left:200px; top:0px;}
+    50%  {background-color:none; left:200px; top:200px;}
+    75%  {background-color:none; left:0px; top:200px;}
+    100% {background-color:none; left:0px; top:0px;}
+}
+
+		/* Standard syntax */
+	@keyframes example {
+    0%   {background-color:none; left:0px; top:0px;}
+    25%  {background-color:none; left:200px; top:0px;}
+    50%  {background-color:none; left:200px; top:200px;}
+    75%  {background-color:none; left:0px; top:200px;}
+    100% {background-color:none; left:0px; top:0px;}
+}
+
+
+
+
+
+
+
+
+
