@@ -1,0 +1,17 @@
+body{
+	font-size: 20px;
+	font-family: "Helvetica";
+	text-align: center;
+	font-weight: lighter;
+	background-color: #841736;
+	background: linear-gradient(#EA396B);
+	background: linear-gradient(#eace06, #ea396b);
+	background: -webkit-linear-gradient(#eace06, #ea396b);
+	background: -moz-linear-gradient(#eace06, #ea396b);
+
+	}
+
+
+
+
+background-image: url(../images/fruits.jpg);
